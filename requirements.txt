@@ -1,0 +1,8 @@
+pandas>=2.1
+numpy
+xgboost>=2.0
+scikit-learn
+joblib
+streamlit>=1.50
+plotly>=5.24
+earthengine-api   # only needed for steps 01 and 04
